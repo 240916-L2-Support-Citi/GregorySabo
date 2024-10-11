@@ -1,4 +1,2 @@
 # GregorySabo
-this will be for training
-
-Testing testing
+September-November L2-Support
