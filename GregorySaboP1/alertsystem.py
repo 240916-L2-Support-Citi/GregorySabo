@@ -20,7 +20,7 @@ try :
             fatal_count = cur.fetchone()[0]
             
             #finally send and alert to the console when the threshold is reached
-            if error_count >= 5 fatal_count >=1:
+            if error_count >= 5:
                 print(f"ERROR - {error_count} logs")
             if fatal_count >=1:
                 print(f"FATAL - {fatal_count}logs "}
